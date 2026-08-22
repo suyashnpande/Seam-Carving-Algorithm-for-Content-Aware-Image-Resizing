@@ -11,6 +11,28 @@ The program supports:
 - Saving the resized image as `resizedImage.jpg`  
 
 ---
+## Demo
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+https://github.com/user-attachments/assets/f48a06ce-c108-4d7e-b0bb-f2df71ed20ce
+
+<b>seam carving </b> — width height reduction
+
+</td>
+<td width="50%" align="center">
+
+https://github.com/user-attachments/assets/83219d38-95ea-4c10-b11f-8e50a41e28ff
+
+<b>seam carving </b> — width height reduction
+
+</td>
+</tr>
+</table>
+
+---
 
 ## ⚙️ Features  
 - **Energy Calculation** – Computes energy of each pixel using gradient magnitude.  
